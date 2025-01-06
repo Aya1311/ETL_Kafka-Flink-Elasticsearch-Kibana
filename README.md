@@ -34,7 +34,7 @@ C:\......\Etl_Kafka_Flink_Elasticsearch_Kibana
 ```
 
 ## Prérequis
-- **Système** : Windows/Linux
+- **Système** : Linux
 - **Langages et outils** :
   - Python 3.7+
   - Apache Kafka (v2.x)
