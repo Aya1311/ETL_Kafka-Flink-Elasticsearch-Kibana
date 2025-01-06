@@ -29,7 +29,7 @@ C:\......\Etl_Kafka_Flink_Elasticsearch_Kibana
 ├── kafka_flink_streaming.py          # Streaming Flink de Kafka vers Flink
 ├── kafka_flink_elasticsearch_streaming.py # Flink vers Elasticsearch
 ├── hdfs_consumer.py                  # Consommateur Kafka avec stockage HDFS
-├── pyflink_word_count.py             # Exemple de traitement Flink Word Count
+├── word count/pyflink_word_count.py             # Exemple de traitement Flink Word Count
 └── README.md                         # Fichier README
 ```
 
