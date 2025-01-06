@@ -53,7 +53,7 @@ cd Etl_Kafka-Flink-Elasticsearch-Kibana
 
 ### Installer les dépendances
 ```bash
-pip install -r requirements.txt
+pip install kafka-python pyflink newsapi-python requests json
 ```
 
 ### Configuration
