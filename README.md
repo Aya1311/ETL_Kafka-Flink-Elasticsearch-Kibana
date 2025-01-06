@@ -47,8 +47,8 @@ C:\......\Etl_Kafka_Flink_Elasticsearch_Kibana
 
 ### Cloner le projet
 ```bash
-git clone https://github.com/Aya1311/Etl_Kafka_Flink_Elasticsearch_Kibana.git
-cd Etl_Kafka_Flink_Elasticsearch_Kibana
+git clone https://github.com/Aya1311/Etl_Kafka-Flink-Elasticsearch-Kibana.git
+cd Etl_Kafka-Flink-Elasticsearch-Kibana
 ```
 
 ### Installer les dépendances
