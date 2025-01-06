@@ -22,7 +22,7 @@ API NewsAPI --> Kafka Producer --> Kafka Topic
 ## Contenu du projet
 Le projet est organisé comme suit :
 ```
-C:\Users\Aya\Downloads\Etl_Kafka_Flink_Elasticsearch_Kibana
+C:\......\Etl_Kafka_Flink_Elasticsearch_Kibana
 |
 ├── kafka_api_producer.py             # Producteur Kafka pour NewsAPI
 ├── kafka_api_consumer.py             # Consommateur Kafka pour lire les messages
